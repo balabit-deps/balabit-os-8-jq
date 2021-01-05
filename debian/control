@@ -1,7 +1,8 @@
 Source: jq
 Section: utils
 Priority: optional
-Maintainer: ChangZhuo Chen (陳昌倬) <czchen@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: ChangZhuo Chen (陳昌倬) <czchen@debian.org>
 Build-Depends: debhelper-compat (= 12),
                bison,
                flex,
